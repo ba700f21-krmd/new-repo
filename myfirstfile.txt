@@ -1,3 +1,5 @@
 This is my first entry in the text file via a Text Editor.
 
 This is my second entry in the text file via Atom.
+
+The line was added with Atom in a new branch.
